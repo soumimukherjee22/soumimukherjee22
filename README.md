@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi, I’m Soumi Mukherjee, an aspiring Data Analyst passionate about turning raw data into meaningful insights. I enjoy working on real-world datasets to uncover patterns, solve business problems, and support data-driven decision-making.
+Hi, I’m Soumi Mukherjee, an entry-level Data Analyst passionate about turning raw data into meaningful insights. I enjoy working on real-world datasets to uncover patterns, solve business problems, and support data-driven decision-making.
 
-I've hands-on experience in data cleaning, exploratory data analysis (EDA), SQL querying, and machine learning, with a strong focus on projects like Customer Churn Analysis and predictive modeling. I’m comfortable working with tools such as Python, SQL, Excel, and data visualization libraries to communicate insights clearly and effectively.
+I have hands-on experience in data cleaning, exploratory data analysis (EDA), SQL querying, and machine learning, with a strong focus on projects like Customer Churn Analysis and predictive modeling. I’m comfortable working with tools such as Python, SQL, Excel, and data visualization libraries to communicate insights clearly and effectively.
 
-I actively build and share projects on GitHub to strengthen my analytical skills, improve my problem-solving ability, and showcase practical applications of data analytics. I’m continuously learning and open to opportunities where I can grow as a data professional and contribute to impactful projects.
+I actively build and share projects on GitHub to strengthen my analytical skills, improve my problem-solving ability, and showcase practical applications of data analytics. I’m continually learning and open to opportunities to grow as a data professional and contribute to impactful projects.
 
 LinkedIn: www.linkedin.com/in/soumimukherjeeofficial
 
