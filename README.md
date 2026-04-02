@@ -5,7 +5,6 @@ I have hands-on experience in data cleaning, exploratory data analysis (EDA), SQ
 
 I actively build and share projects on GitHub to strengthen my analytical skills, improve my problem-solving ability, and showcase practical applications of data analytics. I’m continually learning and open to opportunities to grow as a data professional and contribute to impactful projects.
 
-LinkedIn: www.linkedin.com/in/soumimukherjeeofficial
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumi.mukherjee2003@gmail.com) 
